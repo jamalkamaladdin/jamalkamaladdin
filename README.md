@@ -6,7 +6,7 @@ working out what is actually being asked for, then finding the answer the
 existing constraints will tolerate.
 
 The interesting question is usually not *how do we build this*. It is *why are
-we building it this way* — and what that choice will cost in a year.
+we building it this way*, and what that choice will cost in a year.
 
 I write about that in Azerbaijani at **[camalali.com](https://camalali.com)**,
 because the language has almost no engineering writing at this depth.
@@ -15,14 +15,14 @@ because the language has almost no engineering writing at this depth.
 
 #### Open source
 
-**[camalali-tools](https://github.com/jamalkamaladdin/camalali-tools)** — 166
+**[camalali-tools](https://github.com/jamalkamaladdin/camalali-tools)** runs 166
 developer tools that run entirely in the browser. JWT decoder, cron parser,
 regex tester, DNS and SSL lookups, CIDR maths, JSON and Base64 work. 2,335 test
 cases, no signup, no tracking, MIT.
 
 **[agent-ready-templates](https://github.com/jamalkamaladdin/agent-ready-templates)**
-— the documents a project has to produce anyway, packaged so a coding agent can
-act on them. Each one carries the instruction that says which job it is: fill it
+holds the documents a project has to produce anyway, packaged so a coding agent
+can act on them. Each one carries the instruction that says which job it is: fill it
 in, adapt it to the repository, or audit a project against it.
 
 #### The site
@@ -52,7 +52,7 @@ təcrübəli. İşimin böyük hissəsi bizneslə texnologiyanın ortasında ke�
 nə istədiyini başa düşmək və sistemin real imkanlarını nəzərə alaraq işlək həll
 tapmaq.
 
-Çox vaxt sual «bunu necə yazaq?» deyil. Sual «bunu niyə belə qururuq?» olur — və
+Çox vaxt sual «bunu necə yazaq?» deyil. Sual «bunu niyə belə qururuq?» olur, və
 həmin seçimin bir ildən sonra nəyə başa gələcəyidir.
 
 Bu barədə **[camalali.com](https://camalali.com)** saytında azərbaycanca yazıram,
@@ -60,12 +60,12 @@ Bu barədə **[camalali.com](https://camalali.com)** saytında azərbaycanca yaz
 
 #### Açıq mənbə
 
-**[camalali-tools](https://github.com/jamalkamaladdin/camalali-tools)** — tam
+**[camalali-tools](https://github.com/jamalkamaladdin/camalali-tools)**: tam
 brauzerdə işləyən 166 developer aləti. Hesablama sizin kompüterinizdə aparılır,
 məlumat heç yerə getmir. 2 335 test halı, MIT.
 
 **[agent-ready-templates](https://github.com/jamalkamaladdin/agent-ready-templates)**
-— layihənin onsuz da yazmalı olduğu sənədlər, kod agentinin işləyə biləcəyi
+: layihənin onsuz da yazmalı olduğu sənədlər, kod agentinin işləyə biləcəyi
 formada. Hər şablon öz tapşırığını daşıyır: doldurulur, layihəyə uyğunlaşdırılır,
 yoxsa onunla yoxlama aparılır.
 
