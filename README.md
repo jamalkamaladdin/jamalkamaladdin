@@ -54,7 +54,7 @@ holds the documents a project has to produce anyway, packaged so a coding agent
 can act on them. Each one carries the instruction that says which job it is:
 fill it in, adapt it to the repository, or audit a project against it.
 
-### Latest writing
+### From the blog
 
 <!-- BLOG-POST-LIST:START -->- [Apache Olio: web texnologiyalarını eyni ssenari ilə müqayisə etmək](https://camalali.com/bloq/apache-olio-web-texnologiyalarini-muqayise-etmek)<br>- [Dinamik səhifəni nə vaxt əvvəlcədən generasiya etmək lazımdır?](https://camalali.com/bloq/dinamik-sehifeni-evvelceden-generasiya-etmek)<br>- [Lustre paralel fayl sistemi necə qurulur?](https://camalali.com/bloq/lustre-paralel-fayl-sistemi)<br>- [Memcached əvəzinə MySQL serverlərini artırmaq nə vaxt işləyir?](https://camalali.com/bloq/memcached-evezine-mysql-skalalamaq)<br>- [Memcached ilə session idarəetməsi](https://camalali.com/bloq/memcached-ile-session-idareetmesi)<br><!-- BLOG-POST-LIST:END -->
 
