@@ -56,8 +56,7 @@ fill it in, adapt it to the repository, or audit a project against it.
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Apache Olio: web texnologiyalarını eyni ssenari ilə müqayisə etmək](https://camalali.com/bloq/apache-olio-web-texnologiyalarini-muqayise-etmek)<br>- [Dinamik səhifəni nə vaxt əvvəlcədən generasiya etmək lazımdır?](https://camalali.com/bloq/dinamik-sehifeni-evvelceden-generasiya-etmek)<br>- [Lustre paralel fayl sistemi necə qurulur?](https://camalali.com/bloq/lustre-paralel-fayl-sistemi)<br>- [Memcached əvəzinə MySQL serverlərini artırmaq nə vaxt işləyir?](https://camalali.com/bloq/memcached-evezine-mysql-skalalamaq)<br>- [Memcached ilə session idarəetməsi](https://camalali.com/bloq/memcached-ile-session-idareetmesi)<br><!-- BLOG-POST-LIST:END -->
 
 500+ long-form articles on system design, a 1,000 term technical glossary in
 Azerbaijani, role by role learning paths, and the tools above running live.
