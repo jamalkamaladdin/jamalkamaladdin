@@ -92,12 +92,6 @@ and the browser tools above running live.
 
 ## Azerbaijani in upstream projects
 
-Most developer tooling ships without Azerbaijani, usually because nobody sends
-the file. A locale is code: it carries tests, sort order and placeholder
-contracts, and it stays in the repository long after it is written. Nine
-projects so far, each one written by hand and reviewed by its maintainers. The
-colour of each chip is the project's main language.
-
 <p>
   <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="https://img.shields.io/badge/memos-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>

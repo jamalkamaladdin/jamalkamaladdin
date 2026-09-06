@@ -90,12 +90,6 @@ brauzer alətləri, canlı işləyən halda.
 
 ## Upstream layihələrdə Azərbaycan dili
 
-Developer alətlərinin çoxu Azərbaycan dili olmadan paylanır, çünki adətən heç
-kim faylı göndərmir. Tərcümə faylı koddur: testi, sıralama qaydası və
-placeholder müqaviləsi var, üstəlik yazıldıqdan çox sonra da repozitoriyada
-qalır. İndiyə qədər doqquz layihə, hər biri əl ilə yazılıb və maintainer-lər
-tərəfindən nəzərdən keçirilib. Hər çipin rəngi layihənin əsas dilidir.
-
 <p>
   <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="https://img.shields.io/badge/memos-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
