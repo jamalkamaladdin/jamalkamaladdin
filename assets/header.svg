@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Jamal Kamaladdin">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#131a2a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="18%" cy="22%" r="55%">
+      <stop offset="0%" stop-color="#6c5ce7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6c5ce7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="82%" cy="78%" r="55%">
+      <stop offset="0%" stop-color="#12a5a5" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#12a5a5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="62%" cy="12%" r="40%">
+      <stop offset="0%" stop-color="#3584e4" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#3584e4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#ffffff" fill-opacity="0.06"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3584e4"/>
+      <stop offset="33%" stop-color="#6c5ce7"/>
+      <stop offset="66%" stop-color="#12a5a5"/>
+      <stop offset="100%" stop-color="#2ec27e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#glowA)"/>
+  <rect width="1200" height="300" fill="url(#glowB)"/>
+  <rect width="1200" height="300" fill="url(#glowC)"/>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="80" y="132" fill="#f0f6fc" font-size="64" font-weight="700" letter-spacing="-1.5">Jamal Kamaladdin</text>
+    <text x="82" y="176" fill="#9aa4b2" font-size="19" font-weight="400">Technical enough to understand the problem, experienced enough to manage the solution.</text>
+
+    <g font-size="15" font-weight="600">
+      <rect x="80" y="206" width="206" height="36" rx="18" fill="#3584e4" fill-opacity="0.16" stroke="#3584e4" stroke-opacity="0.55"/>
+      <text x="104" y="229" fill="#7bb2f0">Product engineering</text>
+
+      <rect x="300" y="206" width="139" height="36" rx="18" fill="#6c5ce7" fill-opacity="0.16" stroke="#6c5ce7" stroke-opacity="0.55"/>
+      <text x="324" y="229" fill="#a99cf5">Open source</text>
+
+      <rect x="453" y="206" width="206" height="36" rx="18" fill="#12a5a5" fill-opacity="0.16" stroke="#12a5a5" stroke-opacity="0.55"/>
+      <text x="477" y="229" fill="#5fd3d3">Azerbaijani locales</text>
+
+      <rect x="673" y="206" width="198" height="36" rx="18" fill="#2ec27e" fill-opacity="0.16" stroke="#2ec27e" stroke-opacity="0.55"/>
+      <text x="697" y="229" fill="#6fdda9">Writing, 520 posts</text>
+    </g>
+  </g>
+
+  <rect x="0" y="294" width="1200" height="6" fill="url(#bar)"/>
+</svg>
