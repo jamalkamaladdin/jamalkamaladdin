@@ -5,11 +5,11 @@ Technical enough to understand the problem, experienced enough to manage the sol
 </p>
 
 <p align="center">
-  <a href="https://camalali.com"><img alt="Website" src="https://img.shields.io/badge/Website-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e&labelColor=161b22"></a>
-  <a href="https://www.npmjs.com/package/zero-dep-devtools"><img alt="npm" src="https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=8b949e&labelColor=161b22"></a>
-  <a href="https://www.linkedin.com/in/camalali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&labelColor=161b22&logoColor=8b949e&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4="></a>
-  <a href="https://orcid.org/0009-0002-9513-0512"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0d1117?style=flat-square&logo=orcid&logoColor=8b949e&labelColor=161b22"></a>
-  <a href="README.az.md"><img alt="Azərbaycanca" src="https://img.shields.io/badge/AZ-0d1117?style=flat-square&logo=googletranslate&logoColor=8b949e&labelColor=161b22"></a>
+  <a href="https://camalali.com"><img alt="camalali.com" src="https://img.shields.io/badge/camalali.com-3584e4?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.npmjs.com/package/zero-dep-devtools"><img alt="npm" src="https://img.shields.io/npm/v/zero-dep-devtools?style=flat-square&color=cb3837&label=npm&logo=npm&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/camalali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4="></a>
+  <a href="https://orcid.org/0009-0002-9513-0512"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-a6ce39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="README.az.md"><img alt="Azərbaycanca" src="https://img.shields.io/badge/Az%C9%99rbaycanca-6c5ce7?style=flat-square&logo=googletranslate&logoColor=white"></a>
 </p>
 
 ---
@@ -71,15 +71,18 @@ projects so far, each one written by hand and reviewed by its maintainers.
 ### Built with
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=8b949e">
-  <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=8b949e">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=8b949e">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=8b949e">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=8b949e">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8b949e">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=8b949e">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8b949e">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=8b949e">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=000000">
+  <img alt="Git" src="https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white">
 </p>
 
 ### Elsewhere
