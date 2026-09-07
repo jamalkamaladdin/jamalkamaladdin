@@ -109,7 +109,7 @@ and the browser tools above running live.
   <a href="https://github.com/primefaces/primelocale/pull/268"><img alt="PrimeLocale" src="https://img.shields.io/badge/PrimeLocale-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
 </p>
 
-<p><a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><b>The full list</b></a> has every pull request, with 14 merged into projects carrying 181,579 stars, 5,020 lines of Azerbaijani.</p>
+<p><a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><b>The full list</b></a> carries all 14 merged pull requests across 13 projects, with line counts and star totals.</p>
 <!-- az-locale:end -->
 
 ## Things I code with
