@@ -104,21 +104,52 @@ and the browser tools above running live.
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
 </p>
 
-## Built with
+## Things I code with
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2ead33?style=flat-square">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=black">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000bf?style=flat-square&logo=insomnia&logoColor=white">
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311c87?style=flat-square&logo=apollographql&logoColor=white">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white">
+  <img alt="RxJS" src="https://img.shields.io/badge/RxJS-b7178c?style=flat-square&logo=reactivex&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white">
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-db7093?style=flat-square&logo=styledcomponents&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white">
+  <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?style=flat-square&logo=npm&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="Brave" src="https://img.shields.io/badge/Brave-fb542b?style=flat-square&logo=brave&logoColor=white">
+  <img alt="Rollup" src="https://img.shields.io/badge/Rollup-ec4a3f?style=flat-square&logo=rollupdotjs&logoColor=white">
+  <img alt="D3.js" src="https://img.shields.io/badge/D3.js-f9a03c?style=flat-square&logo=d3dotjs&logoColor=white">
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=black">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white">
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-6c5ce7?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
 ## Elsewhere
