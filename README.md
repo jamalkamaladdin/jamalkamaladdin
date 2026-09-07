@@ -107,6 +107,7 @@ and the browser tools above running live.
   <a href="https://github.com/maplibre/maputnik/pull/2134"><img alt="Maputnik" src="https://img.shields.io/badge/Maputnik-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/xdan/jodit/pull/1471"><img alt="Jodit" src="https://img.shields.io/badge/Jodit-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/primefaces/primelocale/pull/268"><img alt="PrimeLocale" src="https://img.shields.io/badge/PrimeLocale-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
 </p>
 
