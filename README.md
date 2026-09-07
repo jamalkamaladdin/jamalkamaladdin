@@ -103,6 +103,7 @@ and the browser tools above running live.
   <a href="https://github.com/wenzhixin/bootstrap-table/pull/8464"><img alt="Bootstrap Table" src="https://img.shields.io/badge/Bootstrap_Table-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/linuxserver/Heimdall/pull/1598"><img alt="Heimdall" src="https://img.shields.io/badge/Heimdall-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
+  <a href="https://github.com/home-sweet-gnome/dash-to-panel/pull/2559"><img alt="Dash to Panel" src="https://img.shields.io/badge/Dash_to_Panel-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/alefragnani/vscode-project-manager/pull/975"><img alt="Project Manager" src="https://img.shields.io/badge/Project_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/maplibre/maputnik/pull/2134"><img alt="Maputnik" src="https://img.shields.io/badge/Maputnik-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
