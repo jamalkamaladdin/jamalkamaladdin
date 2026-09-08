@@ -99,6 +99,7 @@ and the browser tools above running live.
   <a href="https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837"><img alt="Nginx Proxy Manager" src="https://img.shields.io/badge/Nginx_Proxy_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lissy93/dashy/pull/2334"><img alt="Dashy" src="https://img.shields.io/badge/Dashy-41b883?style=flat-square&logo=vuedotjs&logoColor=white"></a>
   <a href="https://github.com/GopeedLab/gopeed/pull/1490"><img alt="Gopeed" src="https://img.shields.io/badge/Gopeed-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
+  <a href="https://github.com/FreshRSS/FreshRSS/pull/9269"><img alt="FreshRSS" src="https://img.shields.io/badge/FreshRSS-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/faker-js/faker/pull/4037"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/wenzhixin/bootstrap-table/pull/8464"><img alt="Bootstrap Table" src="https://img.shields.io/badge/Bootstrap_Table-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
@@ -111,6 +112,7 @@ and the browser tools above running live.
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced/pull/2395"><img alt="vscode-markdown-preview-enhanced" src="https://img.shields.io/badge/vscode--markdown--preview--enhanced-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/xdan/jodit/pull/1471"><img alt="Jodit" src="https://img.shields.io/badge/Jodit-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/bradymholt/cRonstrue/pull/406"><img alt="cRonstrue" src="https://img.shields.io/badge/cRonstrue-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Kesomannen/gale/pull/715"><img alt="gale" src="https://img.shields.io/badge/gale-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/primefaces/primelocale/pull/268"><img alt="PrimeLocale" src="https://img.shields.io/badge/PrimeLocale-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
