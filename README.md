@@ -103,7 +103,10 @@ and the browser tools above running live.
   <a href="https://github.com/faker-js/faker/pull/4037"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/wenzhixin/bootstrap-table/pull/8464"><img alt="Bootstrap Table" src="https://img.shields.io/badge/Bootstrap_Table-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/mengxi-ream/read-frog/pull/2168"><img alt="read-frog" src="https://img.shields.io/badge/read--frog-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/linuxserver/Heimdall/pull/1598"><img alt="Heimdall" src="https://img.shields.io/badge/Heimdall-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
+  <a href="https://github.com/WinMerge/winmerge/pull/3624"><img alt="winmerge" src="https://img.shields.io/badge/winmerge-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="https://img.shields.io/badge/Wallos-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/code-charity/youtube/pull/4323"><img alt="youtube" src="https://img.shields.io/badge/youtube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/home-sweet-gnome/dash-to-panel/pull/2559"><img alt="Dash to Panel" src="https://img.shields.io/badge/Dash_to_Panel-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
