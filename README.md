@@ -117,13 +117,17 @@ and the browser tools above running live.
   <a href="https://github.com/alefragnani/vscode-project-manager/pull/975"><img alt="Project Manager" src="https://img.shields.io/badge/Project_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/maplibre/maputnik/pull/2134"><img alt="Maputnik" src="https://img.shields.io/badge/Maputnik-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
+  <a href="https://github.com/alefragnani/vscode-bookmarks/pull/909"><img alt="vscode-bookmarks" src="https://img.shields.io/badge/vscode--bookmarks-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced/pull/2395"><img alt="vscode-markdown-preview-enhanced" src="https://img.shields.io/badge/vscode--markdown--preview--enhanced-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/xdan/jodit/pull/1471"><img alt="Jodit" src="https://img.shields.io/badge/Jodit-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/doctorhetfield-cmd/simpleui.koplugin/pull/525"><img alt="simpleui.koplugin" src="https://img.shields.io/badge/simpleui.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/WiVRn/WiVRn/pull/1101"><img alt="WiVRn" src="https://img.shields.io/badge/WiVRn-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/bradymholt/cRonstrue/pull/406"><img alt="cRonstrue" src="https://img.shields.io/badge/cRonstrue-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/OWASP/threat-dragon/pull/1864"><img alt="threat-dragon" src="https://img.shields.io/badge/threat--dragon-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/Kesomannen/gale/pull/715"><img alt="gale" src="https://img.shields.io/badge/gale-dea584?style=flat-square&logo=rust&logoColor=black"></a>
+  <a href="https://github.com/mpvRex/REX-Player/pull/367"><img alt="REX-Player" src="https://img.shields.io/badge/REX--Player-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a>
   <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/ScratchEverywhere/ScratchEverywhere/pull/768"><img alt="ScratchEverywhere" src="https://img.shields.io/badge/ScratchEverywhere-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/primefaces/primelocale/pull/268"><img alt="PrimeLocale" src="https://img.shields.io/badge/PrimeLocale-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
 </p>
 
