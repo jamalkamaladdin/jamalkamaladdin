@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Jamal Kamaladdin" src="assets/header.svg" width="100%">
+  <img alt="Jamal Ali" src="assets/header.svg" width="100%">
 </p>
 
 <p align="center">
