@@ -130,6 +130,7 @@ and the browser tools above running live.
   <a href="https://github.com/OWASP/threat-dragon/pull/1864"><img alt="threat-dragon" src="https://img.shields.io/badge/threat--dragon-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/atbc-org/Adaptive-Tab-Bar-Colour/pull/363"><img alt="Adaptive-Tab-Bar-Colour" src="https://img.shields.io/badge/Adaptive--Tab--Bar--Colour-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Kesomannen/gale/pull/715"><img alt="gale" src="https://img.shields.io/badge/gale-dea584?style=flat-square&logo=rust&logoColor=black"></a>
+  <a href="https://github.com/FreshRSS/Extensions/pull/522"><img alt="Extensions" src="https://img.shields.io/badge/Extensions-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/mpvRex/REX-Player/pull/367"><img alt="REX-Player" src="https://img.shields.io/badge/REX--Player-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a>
   <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/omer-faruq/appstore.koplugin/pull/34"><img alt="appstore.koplugin" src="https://img.shields.io/badge/appstore.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
