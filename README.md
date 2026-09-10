@@ -95,6 +95,8 @@ and the browser tools above running live.
 <!-- az-locale:start -->
 <p>
   <a href="https://github.com/rustdesk/rustdesk/pull/16103"><img alt="rustdesk" src="https://img.shields.io/badge/rustdesk-dea584?style=flat-square&logo=rust&logoColor=black"></a>
+  <a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1339"><img alt="MoneyPrinterTurbo" src="https://img.shields.io/badge/MoneyPrinterTurbo-3776ab?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="https://img.shields.io/badge/v2rayN-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="https://img.shields.io/badge/memos-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837"><img alt="Nginx Proxy Manager" src="https://img.shields.io/badge/Nginx_Proxy_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lissy93/dashy/pull/2334"><img alt="Dashy" src="https://img.shields.io/badge/Dashy-41b883?style=flat-square&logo=vuedotjs&logoColor=white"></a>
@@ -109,11 +111,13 @@ and the browser tools above running live.
   <a href="https://github.com/mengxi-ream/read-frog/pull/2168"><img alt="read-frog" src="https://img.shields.io/badge/read--frog-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/linuxserver/Heimdall/pull/1598"><img alt="Heimdall" src="https://img.shields.io/badge/Heimdall-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/WinMerge/winmerge/pull/3624"><img alt="winmerge" src="https://img.shields.io/badge/winmerge-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/usekaneo/kaneo/pull/1704"><img alt="kaneo" src="https://img.shields.io/badge/kaneo-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lollipopkit/flutter_server_box/pull/1449"><img alt="flutter_server_box" src="https://img.shields.io/badge/flutter_server_box-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="https://img.shields.io/badge/Wallos-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/code-charity/youtube/pull/4323"><img alt="youtube" src="https://img.shields.io/badge/youtube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/home-sweet-gnome/dash-to-panel/pull/2559"><img alt="Dash to Panel" src="https://img.shields.io/badge/Dash_to_Panel-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/wojtekmaj/react-lifecycle-methods-diagram/pull/224"><img alt="react-lifecycle-methods-diagram" src="https://img.shields.io/badge/react--lifecycle--methods--diagram-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-project-manager/pull/975"><img alt="Project Manager" src="https://img.shields.io/badge/Project_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/maplibre/maputnik/pull/2134"><img alt="Maputnik" src="https://img.shields.io/badge/Maputnik-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
