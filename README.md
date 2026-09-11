@@ -138,6 +138,7 @@ and the browser tools above running live.
   <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/omer-faruq/appstore.koplugin/pull/34"><img alt="appstore.koplugin" src="https://img.shields.io/badge/appstore.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/ScratchEverywhere/ScratchEverywhere/pull/768"><img alt="ScratchEverywhere" src="https://img.shields.io/badge/ScratchEverywhere-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/maplibre/navara/pull/815"><img alt="navara" src="https://img.shields.io/badge/navara-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-numbered-bookmarks/pull/221"><img alt="vscode-numbered-bookmarks" src="https://img.shields.io/badge/vscode--numbered--bookmarks-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/primefaces/primelocale/pull/268"><img alt="PrimeLocale" src="https://img.shields.io/badge/PrimeLocale-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/alefragnani/vscode-pascal-formatter/pull/110"><img alt="vscode-pascal-formatter" src="https://img.shields.io/badge/vscode--pascal--formatter-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
