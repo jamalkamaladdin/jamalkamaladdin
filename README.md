@@ -104,7 +104,7 @@ and the browser tools above running live.
   <a href="https://github.com/GopeedLab/gopeed/pull/1490"><img alt="Gopeed" src="https://img.shields.io/badge/Gopeed-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/t8y2/dbx/pull/8536"><img alt="dbx" src="https://img.shields.io/badge/dbx-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/FreshRSS/FreshRSS/pull/9269"><img alt="FreshRSS" src="https://img.shields.io/badge/FreshRSS-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
-  <a href="https://github.com/faker-js/faker/pull/4037"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/faker-js/faker/pull/4075"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/SubtitleEdit/subtitleedit/pull/14705"><img alt="subtitleedit" src="https://img.shields.io/badge/subtitleedit-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/darktable-org/darktable/pull/22211"><img alt="darktable" src="https://img.shields.io/badge/darktable-24292f?style=flat-square&logo=github&logoColor=white"></a>
@@ -131,12 +131,14 @@ and the browser tools above running live.
   <a href="https://github.com/WiVRn/WiVRn/pull/1101"><img alt="WiVRn" src="https://img.shields.io/badge/WiVRn-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/bradymholt/cRonstrue/pull/406"><img alt="cRonstrue" src="https://img.shields.io/badge/cRonstrue-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/OWASP/threat-dragon/pull/1864"><img alt="threat-dragon" src="https://img.shields.io/badge/threat--dragon-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/lissy93/domain-locker/pull/121"><img alt="domain-locker" src="https://img.shields.io/badge/domain--locker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Seafoam-Labs/Shelly-ALPM/pull/1887"><img alt="Shelly-ALPM" src="https://img.shields.io/badge/Shelly--ALPM-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/atbc-org/Adaptive-Tab-Bar-Colour/pull/363"><img alt="Adaptive-Tab-Bar-Colour" src="https://img.shields.io/badge/Adaptive--Tab--Bar--Colour-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Kesomannen/gale/pull/715"><img alt="gale" src="https://img.shields.io/badge/gale-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/FreshRSS/Extensions/pull/522"><img alt="Extensions" src="https://img.shields.io/badge/Extensions-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/mpvRex/REX-Player/pull/367"><img alt="REX-Player" src="https://img.shields.io/badge/REX--Player-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a>
   <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/akashdh11/skystream/pull/100"><img alt="skystream" src="https://img.shields.io/badge/skystream-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/omer-faruq/appstore.koplugin/pull/34"><img alt="appstore.koplugin" src="https://img.shields.io/badge/appstore.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/ScratchEverywhere/ScratchEverywhere/pull/768"><img alt="ScratchEverywhere" src="https://img.shields.io/badge/ScratchEverywhere-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/maplibre/navara/pull/815"><img alt="navara" src="https://img.shields.io/badge/navara-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
