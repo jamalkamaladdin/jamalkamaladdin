@@ -107,6 +107,7 @@ and the browser tools above running live.
   <a href="https://github.com/faker-js/faker/pull/4075"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/SubtitleEdit/subtitleedit/pull/14705"><img alt="subtitleedit" src="https://img.shields.io/badge/subtitleedit-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/Zettlr/Zettlr/pull/6548"><img alt="Zettlr" src="https://img.shields.io/badge/Zettlr-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/darktable-org/darktable/pull/22211"><img alt="darktable" src="https://img.shields.io/badge/darktable-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/wenzhixin/bootstrap-table/pull/8464"><img alt="Bootstrap Table" src="https://img.shields.io/badge/Bootstrap_Table-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/kanboard/kanboard/pull/5896"><img alt="kanboard" src="https://img.shields.io/badge/kanboard-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
