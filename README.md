@@ -104,7 +104,7 @@ and the browser tools above running live.
   <a href="https://github.com/GopeedLab/gopeed/pull/1490"><img alt="Gopeed" src="https://img.shields.io/badge/Gopeed-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/t8y2/dbx/pull/8536"><img alt="dbx" src="https://img.shields.io/badge/dbx-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/FreshRSS/FreshRSS/pull/9269"><img alt="FreshRSS" src="https://img.shields.io/badge/FreshRSS-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
-  <a href="https://github.com/faker-js/faker/pull/4075"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/faker-js/faker/pull/4091"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/SubtitleEdit/subtitleedit/pull/14705"><img alt="subtitleedit" src="https://img.shields.io/badge/subtitleedit-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/Zettlr/Zettlr/pull/6548"><img alt="Zettlr" src="https://img.shields.io/badge/Zettlr-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
