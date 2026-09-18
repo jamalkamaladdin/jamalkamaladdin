@@ -94,15 +94,18 @@ and the browser tools above running live.
 
 <!-- az-locale:start -->
 <p>
+  <a href="https://github.com/langgenius/dify/pull/42291"><img alt="dify" src="https://img.shields.io/badge/dify-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1339"><img alt="MoneyPrinterTurbo" src="https://img.shields.io/badge/MoneyPrinterTurbo-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/rustdesk/rustdesk/pull/16103"><img alt="rustdesk" src="https://img.shields.io/badge/rustdesk-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="https://img.shields.io/badge/v2rayN-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="https://img.shields.io/badge/memos-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/umami-software/umami/pull/4520"><img alt="umami" src="https://img.shields.io/badge/umami-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837"><img alt="Nginx Proxy Manager" src="https://img.shields.io/badge/Nginx_Proxy_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/wg-easy/wg-easy/pull/2806"><img alt="wg-easy" src="https://img.shields.io/badge/wg--easy-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lissy93/dashy/pull/2334"><img alt="Dashy" src="https://img.shields.io/badge/Dashy-41b883?style=flat-square&logo=vuedotjs&logoColor=white"></a>
   <a href="https://github.com/GopeedLab/gopeed/pull/1490"><img alt="Gopeed" src="https://img.shields.io/badge/Gopeed-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/t8y2/dbx/pull/8536"><img alt="dbx" src="https://img.shields.io/badge/dbx-dea584?style=flat-square&logo=rust&logoColor=black"></a>
+  <a href="https://github.com/getmaxun/maxun/pull/1208"><img alt="maxun" src="https://img.shields.io/badge/maxun-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/FreshRSS/FreshRSS/pull/9269"><img alt="FreshRSS" src="https://img.shields.io/badge/FreshRSS-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/faker-js/faker/pull/4091"><img alt="Faker" src="https://img.shields.io/badge/Faker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
@@ -117,6 +120,7 @@ and the browser tools above running live.
   <a href="https://github.com/usekaneo/kaneo/pull/1704"><img alt="kaneo" src="https://img.shields.io/badge/kaneo-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lollipopkit/flutter_server_box/pull/1449"><img alt="flutter_server_box" src="https://img.shields.io/badge/flutter_server_box-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="https://img.shields.io/badge/Wallos-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
+  <a href="https://github.com/builtbybel/FluentCleaner/pull/181"><img alt="FluentCleaner" src="https://img.shields.io/badge/FluentCleaner-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/code-charity/youtube/pull/4323"><img alt="youtube" src="https://img.shields.io/badge/youtube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/home-sweet-gnome/dash-to-panel/pull/2559"><img alt="Dash to Panel" src="https://img.shields.io/badge/Dash_to_Panel-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
@@ -141,6 +145,7 @@ and the browser tools above running live.
   <a href="https://github.com/FreshRSS/Extensions/pull/522"><img alt="Extensions" src="https://img.shields.io/badge/Extensions-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/mpvRex/REX-Player/pull/367"><img alt="REX-Player" src="https://img.shields.io/badge/REX--Player-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a>
   <a href="https://github.com/spruceUI/spruceOS/pull/1651"><img alt="spruceOS" src="https://img.shields.io/badge/spruceOS-3776ab?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/ferraridamiano/ConverterNOW/pull/445"><img alt="ConverterNOW" src="https://img.shields.io/badge/ConverterNOW-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/akashdh11/skystream/pull/100"><img alt="skystream" src="https://img.shields.io/badge/skystream-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/omer-faruq/appstore.koplugin/pull/34"><img alt="appstore.koplugin" src="https://img.shields.io/badge/appstore.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/ScratchEverywhere/ScratchEverywhere/pull/768"><img alt="ScratchEverywhere" src="https://img.shields.io/badge/ScratchEverywhere-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
@@ -148,6 +153,7 @@ and the browser tools above running live.
   <a href="https://github.com/alefragnani/vscode-language-pascal/pull/197"><img alt="vscode-language-pascal" src="https://img.shields.io/badge/vscode--language--pascal-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-numbered-bookmarks/pull/221"><img alt="vscode-numbered-bookmarks" src="https://img.shields.io/badge/vscode--numbered--bookmarks-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/primefaces/primelocale/pull/268"><img alt="PrimeLocale" src="https://img.shields.io/badge/PrimeLocale-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/alefragnani/vscode-separators/pull/149"><img alt="vscode-separators" src="https://img.shields.io/badge/vscode--separators-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-pascal-formatter/pull/110"><img alt="vscode-pascal-formatter" src="https://img.shields.io/badge/vscode--pascal--formatter-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-read-only-indicator/pull/130"><img alt="vscode-read-only-indicator" src="https://img.shields.io/badge/vscode--read--only--indicator-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
 </p>
