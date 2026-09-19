@@ -134,6 +134,7 @@ and the browser tools above running live.
   <a href="https://github.com/EvanHahn/HumanizeDuration.js/pull/240"><img alt="HumanizeDuration.js" src="https://img.shields.io/badge/HumanizeDuration.js-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/doctorhetfield-cmd/simpleui.koplugin/pull/525"><img alt="simpleui.koplugin" src="https://img.shields.io/badge/simpleui.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/WiVRn/WiVRn/pull/1101"><img alt="WiVRn" src="https://img.shields.io/badge/WiVRn-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/ifmeorg/ifme/pull/2508"><img alt="ifme" src="https://img.shields.io/badge/ifme-701516?style=flat-square&logo=ruby&logoColor=white"></a>
   <a href="https://github.com/bradymholt/cRonstrue/pull/406"><img alt="cRonstrue" src="https://img.shields.io/badge/cRonstrue-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/OWASP/threat-dragon/pull/1864"><img alt="threat-dragon" src="https://img.shields.io/badge/threat--dragon-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/lissy93/domain-locker/pull/121"><img alt="domain-locker" src="https://img.shields.io/badge/domain--locker-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
