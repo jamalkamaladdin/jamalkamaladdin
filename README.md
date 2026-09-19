@@ -120,7 +120,10 @@ and the browser tools above running live.
   <a href="https://github.com/usekaneo/kaneo/pull/1704"><img alt="kaneo" src="https://img.shields.io/badge/kaneo-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lollipopkit/flutter_server_box/pull/1449"><img alt="flutter_server_box" src="https://img.shields.io/badge/flutter_server_box-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="https://img.shields.io/badge/Wallos-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
+  <a href="https://github.com/jackocnr/intl-tel-input/pull/2198"><img alt="intl-tel-input" src="https://img.shields.io/badge/intl--tel--input-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/Acode-Foundation/Acode/pull/2918"><img alt="Acode" src="https://img.shields.io/badge/Acode-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/builtbybel/FluentCleaner/pull/181"><img alt="FluentCleaner" src="https://img.shields.io/badge/FluentCleaner-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/sharpemu/sharpemu/pull/890"><img alt="sharpemu" src="https://img.shields.io/badge/sharpemu-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/code-charity/youtube/pull/4323"><img alt="youtube" src="https://img.shields.io/badge/youtube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/home-sweet-gnome/dash-to-panel/pull/2559"><img alt="Dash to Panel" src="https://img.shields.io/badge/Dash_to_Panel-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
@@ -131,8 +134,8 @@ and the browser tools above running live.
   <a href="https://github.com/alefragnani/vscode-bookmarks/pull/909"><img alt="vscode-bookmarks" src="https://img.shields.io/badge/vscode--bookmarks-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced/pull/2395"><img alt="vscode-markdown-preview-enhanced" src="https://img.shields.io/badge/vscode--markdown--preview--enhanced-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/xdan/jodit/pull/1471"><img alt="Jodit" src="https://img.shields.io/badge/Jodit-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/EvanHahn/HumanizeDuration.js/pull/240"><img alt="HumanizeDuration.js" src="https://img.shields.io/badge/HumanizeDuration.js-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/doctorhetfield-cmd/simpleui.koplugin/pull/525"><img alt="simpleui.koplugin" src="https://img.shields.io/badge/simpleui.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/EvanHahn/HumanizeDuration.js/pull/240"><img alt="HumanizeDuration.js" src="https://img.shields.io/badge/HumanizeDuration.js-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/WiVRn/WiVRn/pull/1101"><img alt="WiVRn" src="https://img.shields.io/badge/WiVRn-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/ifmeorg/ifme/pull/2508"><img alt="ifme" src="https://img.shields.io/badge/ifme-701516?style=flat-square&logo=ruby&logoColor=white"></a>
   <a href="https://github.com/bradymholt/cRonstrue/pull/406"><img alt="cRonstrue" src="https://img.shields.io/badge/cRonstrue-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
