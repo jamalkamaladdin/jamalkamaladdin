@@ -95,6 +95,7 @@ and the browser tools above running live.
 <!-- az-locale:start -->
 <p>
   <a href="https://github.com/langgenius/dify/pull/42291"><img alt="dify" src="https://img.shields.io/badge/dify-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="https://img.shields.io/badge/clash--verge--rev-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1339"><img alt="MoneyPrinterTurbo" src="https://img.shields.io/badge/MoneyPrinterTurbo-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/rustdesk/rustdesk/pull/16103"><img alt="rustdesk" src="https://img.shields.io/badge/rustdesk-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="https://img.shields.io/badge/v2rayN-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
@@ -124,10 +125,12 @@ and the browser tools above running live.
   <a href="https://github.com/Acode-Foundation/Acode/pull/2918"><img alt="Acode" src="https://img.shields.io/badge/Acode-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/builtbybel/FluentCleaner/pull/181"><img alt="FluentCleaner" src="https://img.shields.io/badge/FluentCleaner-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/sharpemu/sharpemu/pull/890"><img alt="sharpemu" src="https://img.shields.io/badge/sharpemu-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/homeassistant-ai/ha-mcp/pull/2499"><img alt="ha-mcp" src="https://img.shields.io/badge/ha--mcp-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/code-charity/youtube/pull/4323"><img alt="youtube" src="https://img.shields.io/badge/youtube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/freescout-help-desk/freescout/pull/5619"><img alt="FreeScout" src="https://img.shields.io/badge/FreeScout-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/home-sweet-gnome/dash-to-panel/pull/2559"><img alt="Dash to Panel" src="https://img.shields.io/badge/Dash_to_Panel-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/wojtekmaj/react-lifecycle-methods-diagram/pull/224"><img alt="react-lifecycle-methods-diagram" src="https://img.shields.io/badge/react--lifecycle--methods--diagram-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/filegator/filegator/pull/611"><img alt="filegator" src="https://img.shields.io/badge/filegator-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-project-manager/pull/975"><img alt="Project Manager" src="https://img.shields.io/badge/Project_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/maplibre/maputnik/pull/2134"><img alt="Maputnik" src="https://img.shields.io/badge/Maputnik-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
