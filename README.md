@@ -102,6 +102,7 @@ and the browser tools above running live.
   <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="https://img.shields.io/badge/memos-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/umami-software/umami/pull/4520"><img alt="umami" src="https://img.shields.io/badge/umami-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837"><img alt="Nginx Proxy Manager" src="https://img.shields.io/badge/Nginx_Proxy_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/transloadit/uppy/pull/6530"><img alt="uppy" src="https://img.shields.io/badge/uppy-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/wg-easy/wg-easy/pull/2806"><img alt="wg-easy" src="https://img.shields.io/badge/wg--easy-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lissy93/dashy/pull/2334"><img alt="Dashy" src="https://img.shields.io/badge/Dashy-41b883?style=flat-square&logo=vuedotjs&logoColor=white"></a>
   <a href="https://github.com/GopeedLab/gopeed/pull/1490"><img alt="Gopeed" src="https://img.shields.io/badge/Gopeed-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
@@ -124,6 +125,7 @@ and the browser tools above running live.
   <a href="https://github.com/jackocnr/intl-tel-input/pull/2198"><img alt="intl-tel-input" src="https://img.shields.io/badge/intl--tel--input-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Acode-Foundation/Acode/pull/2918"><img alt="Acode" src="https://img.shields.io/badge/Acode-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/builtbybel/FluentCleaner/pull/181"><img alt="FluentCleaner" src="https://img.shields.io/badge/FluentCleaner-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/kenn-io/agentsview/pull/1857"><img alt="agentsview" src="https://img.shields.io/badge/agentsview-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/sharpemu/sharpemu/pull/890"><img alt="sharpemu" src="https://img.shields.io/badge/sharpemu-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/homeassistant-ai/ha-mcp/pull/2499"><img alt="ha-mcp" src="https://img.shields.io/badge/ha--mcp-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/code-charity/youtube/pull/4323"><img alt="youtube" src="https://img.shields.io/badge/youtube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
