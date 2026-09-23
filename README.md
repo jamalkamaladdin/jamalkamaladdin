@@ -150,6 +150,7 @@ and the browser tools above running live.
   <a href="https://github.com/eddyizm/tempus/pull/1090"><img alt="tempus" src="https://img.shields.io/badge/tempus-b07219?style=flat-square&logo=openjdk&logoColor=white"></a>
   <a href="https://github.com/Seafoam-Labs/Shelly-ALPM/pull/1887"><img alt="Shelly-ALPM" src="https://img.shields.io/badge/Shelly--ALPM-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/proginosko/LeechBlockNG/pull/773"><img alt="LeechBlockNG" src="https://img.shields.io/badge/LeechBlockNG-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/sugarlabs/musicblocks/pull/8853"><img alt="musicblocks" src="https://img.shields.io/badge/musicblocks-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/atbc-org/Adaptive-Tab-Bar-Colour/pull/363"><img alt="Adaptive-Tab-Bar-Colour" src="https://img.shields.io/badge/Adaptive--Tab--Bar--Colour-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/Kesomannen/gale/pull/715"><img alt="gale" src="https://img.shields.io/badge/gale-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/FreshRSS/Extensions/pull/522"><img alt="Extensions" src="https://img.shields.io/badge/Extensions-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
