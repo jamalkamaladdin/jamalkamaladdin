@@ -99,7 +99,9 @@ and the browser tools above running live.
   <a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1339"><img alt="MoneyPrinterTurbo" src="https://img.shields.io/badge/MoneyPrinterTurbo-3776ab?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://github.com/rustdesk/rustdesk/pull/16103"><img alt="rustdesk" src="https://img.shields.io/badge/rustdesk-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="https://img.shields.io/badge/v2rayN-178600?style=flat-square&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/infiniflow/ragflow/pull/20131"><img alt="ragflow" src="https://img.shields.io/badge/ragflow-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="https://img.shields.io/badge/memos-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
+  <a href="https://github.com/TryGhost/Ghost/pull/30528"><img alt="Ghost" src="https://img.shields.io/badge/Ghost-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/umami-software/umami/pull/4520"><img alt="umami" src="https://img.shields.io/badge/umami-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837"><img alt="Nginx Proxy Manager" src="https://img.shields.io/badge/Nginx_Proxy_Manager-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/transloadit/uppy/pull/6530"><img alt="uppy" src="https://img.shields.io/badge/uppy-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
