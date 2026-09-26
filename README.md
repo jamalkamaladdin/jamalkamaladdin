@@ -140,6 +140,7 @@ and the browser tools above running live.
   <a href="https://github.com/maplibre/maputnik/pull/2134"><img alt="Maputnik" src="https://img.shields.io/badge/Maputnik-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/DirectoryLister/DirectoryLister/pull/1544"><img alt="DirectoryLister" src="https://img.shields.io/badge/DirectoryLister-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-bookmarks/pull/909"><img alt="vscode-bookmarks" src="https://img.shields.io/badge/vscode--bookmarks-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/reisxd/TizenTube/pull/671"><img alt="TizenTube" src="https://img.shields.io/badge/TizenTube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced/pull/2395"><img alt="vscode-markdown-preview-enhanced" src="https://img.shields.io/badge/vscode--markdown--preview--enhanced-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/xdan/jodit/pull/1471"><img alt="Jodit" src="https://img.shields.io/badge/Jodit-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/doctorhetfield-cmd/simpleui.koplugin/pull/525"><img alt="simpleui.koplugin" src="https://img.shields.io/badge/simpleui.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
@@ -162,6 +163,7 @@ and the browser tools above running live.
   <a href="https://github.com/akashdh11/skystream/pull/100"><img alt="skystream" src="https://img.shields.io/badge/skystream-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/omer-faruq/appstore.koplugin/pull/34"><img alt="appstore.koplugin" src="https://img.shields.io/badge/appstore.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/ScratchEverywhere/ScratchEverywhere/pull/768"><img alt="ScratchEverywhere" src="https://img.shields.io/badge/ScratchEverywhere-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/openMF/web-app/pull/4029"><img alt="web-app" src="https://img.shields.io/badge/web--app-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/maplibre/navara/pull/815"><img alt="navara" src="https://img.shields.io/badge/navara-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/hackclub/site/pull/2239"><img alt="site" src="https://img.shields.io/badge/site-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/alefragnani/vscode-language-pascal/pull/197"><img alt="vscode-language-pascal" src="https://img.shields.io/badge/vscode--language--pascal-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
