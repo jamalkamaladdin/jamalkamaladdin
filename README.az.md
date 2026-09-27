@@ -115,11 +115,11 @@ brauzer alətləri, canlı işləyən halda.
   <a href="https://github.com/Zettlr/Zettlr/pull/6548"><img alt="Zettlr" src="https://img.shields.io/badge/Zettlr-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/darktable-org/darktable/pull/22211"><img alt="darktable" src="https://img.shields.io/badge/darktable-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/wenzhixin/bootstrap-table/pull/8464"><img alt="Bootstrap Table" src="https://img.shields.io/badge/Bootstrap_Table-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/kanboard/kanboard/pull/5896"><img alt="kanboard" src="https://img.shields.io/badge/kanboard-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/mengxi-ream/read-frog/pull/2168"><img alt="read-frog" src="https://img.shields.io/badge/read--frog-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/kanboard/kanboard/pull/5896"><img alt="kanboard" src="https://img.shields.io/badge/kanboard-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/linuxserver/Heimdall/pull/1598"><img alt="Heimdall" src="https://img.shields.io/badge/Heimdall-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
-  <a href="https://github.com/WinMerge/winmerge/pull/3624"><img alt="winmerge" src="https://img.shields.io/badge/winmerge-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/usekaneo/kaneo/pull/1704"><img alt="kaneo" src="https://img.shields.io/badge/kaneo-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/WinMerge/winmerge/pull/3624"><img alt="winmerge" src="https://img.shields.io/badge/winmerge-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/lollipopkit/flutter_server_box/pull/1449"><img alt="flutter_server_box" src="https://img.shields.io/badge/flutter_server_box-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="https://img.shields.io/badge/Wallos-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
   <a href="https://github.com/jackocnr/intl-tel-input/pull/2198"><img alt="intl-tel-input" src="https://img.shields.io/badge/intl--tel--input-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
@@ -141,6 +141,7 @@ brauzer alətləri, canlı işləyən halda.
   <a href="https://github.com/reisxd/TizenTube/pull/671"><img alt="TizenTube" src="https://img.shields.io/badge/TizenTube-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced/pull/2395"><img alt="vscode-markdown-preview-enhanced" src="https://img.shields.io/badge/vscode--markdown--preview--enhanced-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/xdan/jodit/pull/1471"><img alt="Jodit" src="https://img.shields.io/badge/Jodit-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/OpenLoco/OpenLoco/pull/4007"><img alt="OpenLoco" src="https://img.shields.io/badge/OpenLoco-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://github.com/doctorhetfield-cmd/simpleui.koplugin/pull/525"><img alt="simpleui.koplugin" src="https://img.shields.io/badge/simpleui.koplugin-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/EvanHahn/HumanizeDuration.js/pull/240"><img alt="HumanizeDuration.js" src="https://img.shields.io/badge/HumanizeDuration.js-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/WiVRn/WiVRn/pull/1101"><img alt="WiVRn" src="https://img.shields.io/badge/WiVRn-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
