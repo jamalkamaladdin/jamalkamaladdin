@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Camal Kamaləddin" src="assets/header-az.svg" width="100%">
+  <img alt="Camal Əli" src="assets/header-az.svg" width="100%">
 </p>
 
 <p align="center">
