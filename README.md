@@ -108,6 +108,7 @@ and the browser tools above running live.
   <a href="https://github.com/wg-easy/wg-easy/pull/2806"><img alt="wg-easy" src="https://img.shields.io/badge/wg--easy-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/lissy93/dashy/pull/2334"><img alt="Dashy" src="https://img.shields.io/badge/Dashy-41b883?style=flat-square&logo=vuedotjs&logoColor=white"></a>
   <a href="https://github.com/GopeedLab/gopeed/pull/1490"><img alt="Gopeed" src="https://img.shields.io/badge/Gopeed-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
+  <a href="https://github.com/MagicMirrorOrg/MagicMirror/pull/4283"><img alt="MagicMirror" src="https://img.shields.io/badge/MagicMirror-f1e05a?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/t8y2/dbx/pull/8536"><img alt="dbx" src="https://img.shields.io/badge/dbx-dea584?style=flat-square&logo=rust&logoColor=black"></a>
   <a href="https://github.com/getmaxun/maxun/pull/1208"><img alt="maxun" src="https://img.shields.io/badge/maxun-3178c6?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/FreshRSS/FreshRSS/pull/9269"><img alt="FreshRSS" src="https://img.shields.io/badge/FreshRSS-4F5D95?style=flat-square&logo=php&logoColor=white"></a>
