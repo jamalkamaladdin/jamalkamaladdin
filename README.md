@@ -55,7 +55,7 @@ I write in Azerbaijani at **[camalali.com](https://camalali.com)**, because the 
 I add Azerbaijani to open source software, one pull request at a time. Below are the ten most-starred projects; the full list has every merged translation.
 
 <!-- az-locale:start -->
-<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="82 projects, 86 merged pull requests, 1.4M combined stars, 366k words translated" src="assets/az/summary-en.svg" width="100%"></a>
+<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="84 projects, 88 merged pull requests, 1.4M combined stars, 376k words translated" src="assets/az/summary-en.svg" width="100%"></a>
 
 <p>
 <a href="https://github.com/langgenius/dify/pull/42291"><img alt="dify" src="assets/az/langgenius--dify.svg" width="50%"></a><a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="assets/az/clash-verge-rev--clash-verge-rev.svg" width="50%"></a>
