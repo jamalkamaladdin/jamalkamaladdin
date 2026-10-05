@@ -55,14 +55,14 @@ Maraqlı sual adətən «bunu necə yazaq?» deyil. Sual «bunu niyə belə quru
 Açıq mənbə proqramlara Azərbaycan dilini əlavə edirəm, hər dəfə bir pull request ilə. Aşağıda ən çox ulduzu olan on layihə var, qəbul olunmuş bütün tərcümələr tam siyahıdadır.
 
 <!-- az-locale:start -->
-<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="92 layihə, 96 qəbul olunmuş pull request, 1,4 mln ümumi ulduz, 420 min tərcümə olunmuş söz" src="assets/az/summary-az.svg" width="100%"></a>
+<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="94 layihə, 98 qəbul olunmuş pull request, 1,5 mln ümumi ulduz, 431 min tərcümə olunmuş söz" src="assets/az/summary-az.svg" width="100%"></a>
 
 <p>
 <a href="https://github.com/langgenius/dify/pull/42291"><img alt="dify" src="assets/az/langgenius--dify.svg" width="50%"></a><a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="assets/az/clash-verge-rev--clash-verge-rev.svg" width="50%"></a>
 <a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1339"><img alt="MoneyPrinterTurbo" src="assets/az/harry0703--moneyprinterturbo.svg" width="50%"></a><a href="https://github.com/rustdesk/rustdesk/pull/16103"><img alt="rustdesk" src="assets/az/rustdesk--rustdesk.svg" width="50%"></a>
-<a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="assets/az/2dust--v2rayn.svg" width="50%"></a><a href="https://github.com/infiniflow/ragflow/pull/20131"><img alt="ragflow" src="assets/az/infiniflow--ragflow.svg" width="50%"></a>
-<a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="assets/az/usememos--memos.svg" width="50%"></a><a href="https://github.com/TryGhost/Ghost/pull/30528"><img alt="Ghost" src="assets/az/tryghost--ghost.svg" width="50%"></a>
-<a href="https://github.com/umami-software/umami/pull/4520"><img alt="umami" src="assets/az/umami-software--umami.svg" width="50%"></a><a href="https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837"><img alt="Nginx Proxy Manager" src="assets/az/nginxproxymanager--nginx-proxy-manager.svg" width="50%"></a>
+<a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="assets/az/2dust--v2rayn.svg" width="50%"></a><a href="https://github.com/neovim/neovim/pull/41816"><img alt="neovim" src="assets/az/neovim--neovim.svg" width="50%"></a>
+<a href="https://github.com/infiniflow/ragflow/pull/20131"><img alt="ragflow" src="assets/az/infiniflow--ragflow.svg" width="50%"></a><a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="assets/az/usememos--memos.svg" width="50%"></a>
+<a href="https://github.com/TryGhost/Ghost/pull/30528"><img alt="Ghost" src="assets/az/tryghost--ghost.svg" width="50%"></a><a href="https://github.com/umami-software/umami/pull/4520"><img alt="umami" src="assets/az/umami-software--umami.svg" width="50%"></a>
 </p>
 <!-- az-locale:end -->
 
