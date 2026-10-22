@@ -55,14 +55,14 @@ I write in Azerbaijani at **[camalali.com](https://camalali.com)**, because the 
 I add Azerbaijani to open source software, one pull request at a time. Below are the ten most-starred projects; the full list has every merged translation.
 
 <!-- az-locale:start -->
-<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="96 projects, 108 merged pull requests, 1.6M combined stars, 454k words translated" src="assets/az/summary-en.svg" width="100%"></a>
+<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="44 projects, 54 merged pull requests, 486k combined stars, 146k words translated" src="assets/az/summary-en.svg" width="100%"></a>
 
 <p>
-<a href="https://github.com/langgenius/dify/pull/42291"><img alt="dify" src="assets/az/langgenius--dify.svg" width="50%"></a><a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="assets/az/clash-verge-rev--clash-verge-rev.svg" width="50%"></a>
-<a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1339"><img alt="MoneyPrinterTurbo" src="assets/az/harry0703--moneyprinterturbo.svg" width="50%"></a><a href="https://github.com/rustdesk/rustdesk/pull/16103"><img alt="rustdesk" src="assets/az/rustdesk--rustdesk.svg" width="50%"></a>
-<a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="assets/az/2dust--v2rayn.svg" width="50%"></a><a href="https://github.com/neovim/neovim/pull/41816"><img alt="neovim" src="assets/az/neovim--neovim.svg" width="50%"></a>
-<a href="https://github.com/infiniflow/ragflow/pull/20131"><img alt="ragflow" src="assets/az/infiniflow--ragflow.svg" width="50%"></a><a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="assets/az/usememos--memos.svg" width="50%"></a>
-<a href="https://github.com/TryGhost/Ghost/pull/30528"><img alt="Ghost" src="assets/az/tryghost--ghost.svg" width="50%"></a><a href="https://github.com/umami-software/umami/pull/4520"><img alt="umami" src="assets/az/umami-software--umami.svg" width="50%"></a>
+<a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="assets/az/clash-verge-rev--clash-verge-rev.svg" width="50%"></a><a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="assets/az/2dust--v2rayn.svg" width="50%"></a>
+<a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="assets/az/usememos--memos.svg" width="50%"></a><a href="https://github.com/getmaxun/maxun/pull/1208"><img alt="maxun" src="assets/az/getmaxun--maxun.svg" width="50%"></a>
+<a href="https://github.com/faker-js/faker/pull/4134"><img alt="faker" src="assets/az/faker-js--faker.svg" width="50%"></a><a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="apexcharts.js" src="assets/az/apexcharts--apexcharts.js.svg" width="50%"></a>
+<a href="https://github.com/kanboard/kanboard/pull/5896"><img alt="kanboard" src="assets/az/kanboard--kanboard.svg" width="50%"></a><a href="https://github.com/usekaneo/kaneo/pull/1704"><img alt="kaneo" src="assets/az/usekaneo--kaneo.svg" width="50%"></a>
+<a href="https://github.com/lollipopkit/flutter_server_box/pull/1449"><img alt="flutter_server_box" src="assets/az/lollipopkit--flutter_server_box.svg" width="50%"></a><a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="assets/az/ellite--wallos.svg" width="50%"></a>
 </p>
 <!-- az-locale:end -->
 
