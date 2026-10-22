@@ -55,7 +55,7 @@ Maraqlı sual adətən «bunu necə yazaq?» deyil. Sual «bunu niyə belə quru
 Açıq mənbə proqramlara Azərbaycan dilini əlavə edirəm, hər dəfə bir pull request ilə. Aşağıda ən çox ulduzu olan on layihə var, qəbul olunmuş bütün tərcümələr tam siyahıdadır.
 
 <!-- az-locale:start -->
-<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="44 layihə, 54 qəbul olunmuş pull request, 486 min ümumi ulduz, 146 min tərcümə olunmuş söz" src="assets/az/summary-az.svg" width="100%"></a>
+<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="96 layihə, 108 qəbul olunmuş pull request, 1,6 mln ümumi ulduz, 454 min tərcümə olunmuş söz" src="assets/az/summary-az.svg" width="100%"></a>
 
 <p>
 <a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="assets/az/clash-verge-rev--clash-verge-rev.svg" width="50%"></a><a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="assets/az/2dust--v2rayn.svg" width="50%"></a>
