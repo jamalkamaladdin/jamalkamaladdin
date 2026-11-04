@@ -55,12 +55,12 @@ Maraqlı sual adətən «bunu necə yazaq?» deyil. Sual «bunu niyə belə quru
 Açıq mənbə proqramlara Azərbaycan dilini əlavə edirəm, hər dəfə bir pull request ilə. Aşağıda ən çox ulduzu olan on layihə var, qəbul olunmuş bütün tərcümələr tam siyahıdadır.
 
 <!-- az-locale:start -->
-<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="97 layihə, 111 qəbul olunmuş pull request, 1,6 mln ümumi ulduz, 454 min tərcümə olunmuş söz" src="assets/az/summary-az.svg" width="100%"></a>
+<a href="https://github.com/jamalkamaladdin/azerbaijani-translations"><img alt="97 layihə, 112 qəbul olunmuş pull request, 1,6 mln ümumi ulduz, 454 min tərcümə olunmuş söz" src="assets/az/summary-az.svg" width="100%"></a>
 
 <p>
 <a href="https://github.com/clash-verge-rev/clash-verge-rev/pull/7906"><img alt="clash-verge-rev" src="assets/az/clash-verge-rev--clash-verge-rev.svg" width="50%"></a><a href="https://github.com/2dust/v2rayN/pull/10141"><img alt="v2rayN" src="assets/az/2dust--v2rayn.svg" width="50%"></a>
 <a href="https://github.com/usememos/memos/pull/6278"><img alt="memos" src="assets/az/usememos--memos.svg" width="50%"></a><a href="https://github.com/getmaxun/maxun/pull/1208"><img alt="maxun" src="assets/az/getmaxun--maxun.svg" width="50%"></a>
-<a href="https://github.com/faker-js/faker/pull/4216"><img alt="faker" src="assets/az/faker-js--faker.svg" width="50%"></a><a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="apexcharts.js" src="assets/az/apexcharts--apexcharts.js.svg" width="50%"></a>
+<a href="https://github.com/faker-js/faker/pull/4244"><img alt="faker" src="assets/az/faker-js--faker.svg" width="50%"></a><a href="https://github.com/apexcharts/apexcharts.js/pull/5289"><img alt="apexcharts.js" src="assets/az/apexcharts--apexcharts.js.svg" width="50%"></a>
 <a href="https://github.com/kanboard/kanboard/pull/5896"><img alt="kanboard" src="assets/az/kanboard--kanboard.svg" width="50%"></a><a href="https://github.com/usekaneo/kaneo/pull/1704"><img alt="kaneo" src="assets/az/usekaneo--kaneo.svg" width="50%"></a>
 <a href="https://github.com/lollipopkit/flutter_server_box/pull/1449"><img alt="flutter_server_box" src="assets/az/lollipopkit--flutter_server_box.svg" width="50%"></a><a href="https://github.com/ellite/Wallos/pull/1201"><img alt="Wallos" src="assets/az/ellite--wallos.svg" width="50%"></a>
 </p>
